@@ -1,5 +1,5 @@
-- 👋 Hi, I’m SAJJAD FAKHARIAN
-- 👀 I’m interested in Data Analytics
+- 👋 Hi, I’m **Sajjad Fakharian**
+- 👀 I’m interested in **Data Analytics**
 - 📫 How to reach me sjfakharian@gmail.com
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sjfakharian?style=social">
