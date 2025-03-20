@@ -9,10 +9,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sjfakharian@gmail.com)
 [![Github](https://img.shields.io/github/followers/sjfakharian?label=Follow&style=social)](https://github.com/sjfakharian)
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sjfakharian?style=social">
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadfakharian/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/sajjadfakharian/)](https://www.instagram.com/sajjadfakharian)
 
 <!---
 sjfakharian/sjfakharian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
