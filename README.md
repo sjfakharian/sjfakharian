@@ -14,8 +14,7 @@
 - 🌱 I can create compelling **data stories** out of complex data and statistical findings 
 - 📫 How to reach me sjfakharian@gmail.com
 
-
-  ### 👀 Interests
+### 👀 Interests
 
 - Machine Learning
 - Data Science
