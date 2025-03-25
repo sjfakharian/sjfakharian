@@ -1,0 +1,33 @@
+name: Update Visitor Counter
+
+on:
+  push:
+    branches:
+      - main
+  page_build:
+    types:
+      - published
+
+jobs:
+  update_counter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+
+      - name: Run visitor counter script
+        run: |
+          python scripts/visitor_counter.py
+
+      - name: Commit and push counter update
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add counter.json
+          git commit -m "Update visitor count"
+          git push
