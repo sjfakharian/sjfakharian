@@ -22,7 +22,7 @@ jobs:
 
       - name: Run visitor counter script
         run: |
-          python scripts/visitor_counter.py
+          python visitor_counter.py
 
       - name: Commit and push counter update
         run: |
